@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+}
+.hap{
+    text-align: center;
+    color: #00ADEF;
+      text-shadow: 2px 0px black;
+
+}
+.text{
+    text-align: center;
+    
+}
+.tc{
+    text-decoration: none;
+    color: #00ADEF;
+    font-family: sans-serif;
+    
+}
+.tc:hover{
+    text-decoration: underline;
+}
